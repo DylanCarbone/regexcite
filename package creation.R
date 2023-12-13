@@ -59,4 +59,10 @@ use_readme_rmd()
 # Once you have updated the readme RMD, you can use the following:
 build_readme()
 
+# on git to stage all
+#git add -A
+# to commit with a message
+#git commit -m “[descriptive message]”
+#To push
+#git push
 
