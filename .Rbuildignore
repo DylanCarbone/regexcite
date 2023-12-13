@@ -1,2 +1,5 @@
 ^regexcite\.Rproj$
 ^\.Rproj\.user$
+package creation.R
+^LICENSE\.md$
+^README\.Rmd$
