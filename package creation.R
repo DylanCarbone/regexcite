@@ -27,7 +27,6 @@ use_mit_license()
 #We still need to trigger the conversion of this new roxygen comment into man/strsplit1.Rd with document():
 document()
 #document() does two main jobs:
-
 # Converts our roxygen comments into proper R documentation.
 # (Re)generates NAMESPACE.
 
@@ -65,4 +64,3 @@ build_readme()
 #git commit -m “[descriptive message]”
 #To push
 #git push
-

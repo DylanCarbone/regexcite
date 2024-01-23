@@ -3,3 +3,4 @@
 package creation.R
 ^LICENSE\.md$
 ^README\.Rmd$
+^\.github$
