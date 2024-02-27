@@ -161,7 +161,7 @@ local_edition(3)
 
 # note the advice provided aren't hard and fast rules, but are, rather, guidelines. There will always be specific situations where it makes sense to bend the rule.
 
-# Within Test that, objects created inside the curly brackets are deteled, unless they are library calls or configure other aspects such as the view size. If you have to tweak these variables, for example by calling console list, you can use the command, waldo.
+# Within Test that, objects created inside the curly brackets are detailed, unless they are library calls or configure other aspects such as the view size. If you have to tweak these variables, for example by calling console list, you can use the command, waldo.
 
 # We recommend including withr in Suggests
 
@@ -293,21 +293,3 @@ test_that("can read from file name with utf-8 path", {
 })
 
 # In more extensive situations, you can also use withr to create local folders
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
